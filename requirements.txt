@@ -1,0 +1,6 @@
+opencv_python==4.4.0.46
+torch==1.7.0
+numpy==1.18.5
+tqdm==4.47.0
+pandas==1.0.5
+scikit_learn==0.24.1

@@ -1,0 +1,15 @@
+*__pycache__/
+dataset*.pkl
+/dataset/casme1_cropped
+/dataset/casme2_cropped
+/dataset/casme^2_cropped
+/paper/*
+!/paper/*.tex
+!/paper/*.png
+!/paper/*.pptx
+!/paper/*.bib
+/paper/.~ARFNet.pptx
+!/paper/teaser.pdf
+*.pkl
+*checkpoint*
+*.pth
