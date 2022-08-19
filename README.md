@@ -1,6 +1,12 @@
 
 # Off-TANet:A lightweight neural micro-expression recognizer with optical flow features and integrated attention mechanism
 
+ResearchGate:
+https://www.researchgate.net/publication/355545710_Off-TANet_A_Lightweight_Neural_Micro-expression_Recognizer_with_Optical_Flow_Features_and_Integrated_Attention_Mechanism?_iepl%5BgeneralViewId%5D=n5Mw0uLS3a9Hzu6kqDKN0QWRouBsQwulh31b&_iepl%5Bcontexts%5D%5B0%5D=searchReact&_iepl%5BviewId%5D=C4Cc0QrPkbdErfXawaM1dZ1tBdzXC6U1iUxh&_iepl%5BsearchType%5D=publication&_iepl%5Bdata%5D%5BcountLessEqual20%5D=1&_iepl%5Bdata%5D%5BinteractedWithPosition1%5D=1&_iepl%5Bdata%5D%5BwithEnrichment%5D=1&_iepl%5Bposition%5D=1&_iepl%5BrgKey%5D=PB%3A355545710&_iepl%5BtargetEntityId%5D=PB%3A355545710&_iepl%5BinteractionType%5D=publicationTitle
+
+Bilibili:
+https://www.bilibili.com/video/BV1Ab4y1E7y2?spm_id_from=333.999.0.0
+
 ### How to Run the Code
 1.Install packages mentioned in **requirements.txt** 
 
